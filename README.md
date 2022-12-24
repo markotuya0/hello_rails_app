@@ -117,7 +117,7 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 **Basit Ali**
+👤 **Mark otuya**
 
 - GitHub: [@githubhandle](https://github.com/markotuya0)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mark-otuya)
